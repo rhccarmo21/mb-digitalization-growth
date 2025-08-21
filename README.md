@@ -137,6 +137,26 @@ python mb_digitalization_growth.py
 
 ---
 
+## 🎯 Conclusão Principal
+
+Nosso estudo demonstra **evidências robustas de uma relação positiva entre digitalização e desenvolvimento econômico**. Através da análise de indicadores-chave como **penetração de internet, telefonia móvel e banda larga fixa**, correlacionados com o **PIB per capita** em 12 países entre 2010 e 2023, identificamos um padrão consistente:
+
+> 📈 **Países e regiões que ampliam o acesso e a qualidade de sua infraestrutura digital tendem a experimentar crescimento econômico mais acelerado e sustentável.**
+
+### 💡 Destaques Específicos:
+
+- **Países Emergentes como Motores de Crescimento**: Nações como **Brasil, México, Turquia e Malásia** destacam-se não apenas pela expansão acelerada de sua infraestrutura digital, mas também pela correlação mais forte entre esse avanço e o crescimento de seu PIB per capita no período analisado.
+
+- **Banda Larga como Principal Impulsionadora**: A **correlação mais forte (0.92)** foi identificada entre assinaturas de banda larga fixa e PIB, sugerindo que a qualidade e estabilidade da conexão são tão ou mais importantes que o simples acesso.
+
+- **Efeito Multiplicador**: A digitalização atua como um **catalisador transversal**, potencializando a produtividade em setores tradicionais, fomentando a inovação e criando novos mercados e oportunidades de negócio.
+
+- **Redução de Assimetrias Regionais**: Investimentos estratégicos em infraestrutura digital mostram-se como uma ferramenta eficaz para **reduzir disparidades econômicas e sociais** dentro dos países e entre regiões.
+
+Esta conclusão reforça a importância de políticas públicas e investimentos privados orientados para a **expansão da conectividade** como alicerce fundamental para o desenvolvimento no século XXI.
+
+---
+
 ## 💡 Recomendações de Política Pública
 
 ### 🌱 Para Países em Desenvolvimento
