@@ -83,7 +83,7 @@ Analisar estatisticamente a relação entre digitalização e crescimento econô
 
 ## 📁 Estrutura do Projeto
 ```
-digitalizacao_crescimento/
+mb-digitalization-growth/
 │
 ├── mb_digitalization_growth.py              # Script principal de análise
 ├── mb_digitalization_growth_processed.csv   # Dados processados (2010-2023)
